@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b23dcae0-affd-447e-bb9a-ae909dcac253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/exercise-carousel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cotton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eglomise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lighthouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maggie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG-3628.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG-3628.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_3050.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_3286.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_3286.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_6115.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_8465.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_8588.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_8588.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_8745.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/IMG_9588.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/cotton.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/eglomise.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/lighthouse.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/maggie.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/scarlet.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original images/shoes.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/purpleplant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scarlet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shoes.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g5CrLyv43PtOSMeVfKZkg3km8l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b23dcae0-affd-447e-bb9a-ae909dcac253" name="Default Changelist" comment="" />
+      <created>1597395263883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597395263883</updated>
+      <workItem from="1597395264976" duration="6873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
