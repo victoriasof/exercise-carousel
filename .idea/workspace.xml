@@ -20,38 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23dcae0-affd-447e-bb9a-ae909dcac253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exercise-carousel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cotton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eglomise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lighthouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maggie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG-3628.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG-3628.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_3050.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_3286.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_3286.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_6115.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_8465.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_8588.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_8588.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_8745.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/IMG_9588.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/cotton.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/eglomise.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/lighthouse.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/maggie.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/mika e445285a-9913-4156-9f7a-1dc7eb30d38d.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/scarlet.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original images/shoes.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/purpleplant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scarlet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597395263883</updated>
-      <workItem from="1597395264976" duration="6873000" />
+      <workItem from="1597395264976" duration="9980000" />
     </task>
     <servers />
   </component>
